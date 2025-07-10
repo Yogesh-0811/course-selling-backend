@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-// mongoose.connect("mongodb+srv://yogesh:Yogesh0811@cluster15.wrgi9d7.mongodb.net/coursera-app")
+// mongoose.connect("")
 //use dotenv to store the connection string
 const { Schema } = require('mongoose');
 const ObjectId = mongoose.Types.ObjectId;

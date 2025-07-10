@@ -7,7 +7,7 @@ const app = express();
 app.use(express.json());
 
 // const jwt = require('jsonwebtoken');
-// JWT_SECRET = "0815";
+// JWT_SECRET = "";
 
 //import
 const { userRouter } = require("./routes/user");
